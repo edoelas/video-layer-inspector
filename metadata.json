@@ -1,0 +1,5 @@
+{
+  "name": "Video Layer Inspector",
+  "description": "A tool to visualize multi-stage video processing results by overlaying transparent video layers from a ZIP file.",
+  "requestFramePermissions": []
+}
